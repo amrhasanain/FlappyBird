@@ -2,7 +2,7 @@
 
 ## A Flappy Bird game written in Python with the Ursina game engine
 
-[![Ursina](https://img.shields.io/badge/Ursina-Visit%20Website-4B8BBE?style=for-the-badge)](https://www.ursinaengine.org/)
+[![Download Repository](https://img.shields.io/badge/Download-Repository-2ea44f?style=flat&logo=github)](https://github.com/USERNAME/REPOSITORY/archive/refs/heads/main.zip)
 
 Created with AzhariProgrammer
 
